@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-12-06T12:14:31+01:00",
+  "id": "how-to-write-a-python-class",
+  "duration": 11,
+  "title": "How to Write your first Java class",
+  "authors": "Helene de Ribaupierre",
+  "summary": "How to write your first class",
+  "source": "HelloWorldPython.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "python"
+  ],
+  "tags": [
+    "code"
+  ],
+  "url": "how-to-write-a-python-class"
+}
